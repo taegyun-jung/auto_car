@@ -1,6 +1,0 @@
-train: ../images/train/
-val: ../images/val/
-
-# Classes
-nc: 1  # number of classes
-names: ['helmet']  # class names
