@@ -1,0 +1,5 @@
+train: /content/road sign/images/train
+val: /content/road sign/images/val
+
+nc: 6
+names: ['trafficlight', 'stop', 'speedlimit', 'crosswalk', 'curvedroad', 'speedbump']

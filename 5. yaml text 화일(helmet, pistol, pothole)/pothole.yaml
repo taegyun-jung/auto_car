@@ -1,0 +1,5 @@
+train: /content/pothole/train/images
+val: /content/pothole/valid/images
+
+nc: 1
+names: ['pothole']
